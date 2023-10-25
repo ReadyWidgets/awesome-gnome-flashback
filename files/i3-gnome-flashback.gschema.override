@@ -1,6 +1,3 @@
-[org.gnome.desktop.wm.preferences:i3-GNOME-Flashback]
-button-layout='appmenu:close'
-
-[org.gnome.gnome-flashback:i3-GNOME-Flashback]
+[org.gnome.gnome-flashback:aweomse-GNOME-Flashback]
 desktop=false
 root-background=true

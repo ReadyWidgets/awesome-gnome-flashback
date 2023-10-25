@@ -1,10 +1,10 @@
 [Desktop Entry]
 Type=Application
-Name=i3-gnome-flashback
+Name=aweomse-gnome-flashback
 Comment=Improved dynamic tiling window manager
-Exec=i3-gnome-flashback
+Exec=aweomse-gnome-flashback
 NoDisplay=true
-X-GNOME-WMName=i3-gnome-flashback
+X-GNOME-WMName=aweomse-gnome-flashback
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
 X-GNOME-Autostart-Notify=false
