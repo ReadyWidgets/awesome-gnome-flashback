@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=GNOME Flashback (aweomse)
-Comment=This session logs you into GNOME Flashback with aweomse
-Exec=aweomse-gnome-flashback-session
-TryExec=aweomse
+Name=GNOME Flashback (awesome)
+Comment=This session logs you into GNOME Flashback with awesome
+Exec=awesome-gnome-flashback-session
+TryExec=awesome
 Type=Application
-DesktopNames=aweomse-GNOME-Flashback;GNOME-Flashback;GNOME;
+DesktopNames=awesome-GNOME-Flashback;GNOME-Flashback;GNOME;
