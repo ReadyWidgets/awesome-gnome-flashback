@@ -1,3 +1,4 @@
 [org.gnome.gnome-flashback:awesome-GNOME-Flashback]
 desktop=false
+notifications=false
 root-background=true
